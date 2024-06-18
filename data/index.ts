@@ -74,16 +74,16 @@ export const navItems = [
     {
       id: 1,
       title: "Shivani Sibal Portfolio",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      des: "Creating an effective and engaging author portfolio for showcasing your work and giving readers insight into who you are as a writer.",
+      img: "/shivani.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
       link: "https://shivani-portoflio.vercel.app/",
     },
     {
       id: 2,
       title: "Barshop Studios",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
+      des: "Created a podcast website for an agency Barshop Studios so they can craft top-quality podcasts and market their work.",
+      img: "/barshop.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://barshopstudio.vercel.app/",
      
@@ -91,8 +91,8 @@ export const navItems = [
     {
       id: 3,
       title: "Podcastr",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
+      des: "A Realtime website created for user so they can create their own podcasts and to bring your audio vision to life.",
+      img: "/podcastr.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
       link: "https://podcastr-weld.vercel.app/",
     },
