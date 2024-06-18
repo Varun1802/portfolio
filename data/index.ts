@@ -206,14 +206,17 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
+      link:"https://github.com/Varun1802/",
       img: "/git.svg",
     },
     {
       id: 2,
+      link:"https://x.com/varun_182?s=21",
       img: "/twit.svg",
     },
     {
       id: 3,
+      link:"https://www.linkedin.com/in/varun-choudhary-3271051b8/",
       img: "/link.svg",
     },
   ];
