@@ -74,7 +74,7 @@ export const navItems = [
     {
       id: 1,
       title: "Shivani Sibal Portfolio",
-      des: "Creating an effective and engaging author portfolio for showcasing your work and giving readers insight into who you are as a writer.",
+      des: "Created an effective author portfolio for showcasing work and giving insight into who you are as a writer.",
       img: "/shivani.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
       link: "https://shivani-portoflio.vercel.app/",
@@ -82,7 +82,7 @@ export const navItems = [
     {
       id: 2,
       title: "Barshop Studios",
-      des: "Created a podcast website for an agency Barshop Studios so they can craft top-quality podcasts and market their work.",
+      des: "Created a website for an agency so they can craft top-quality podcasts and market their work.",
       img: "/barshop.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://barshopstudio.vercel.app/",
@@ -91,7 +91,7 @@ export const navItems = [
     {
       id: 3,
       title: "Podcastr",
-      des: "A Realtime website created for user so they can create their own podcasts and to bring your audio vision to life.",
+      des: "A website created for user so they can create their own podcasts and to bring your audio vision to life.",
       img: "/podcastr.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
       link: "https://podcastr-weld.vercel.app/",
@@ -99,7 +99,7 @@ export const navItems = [
     {
       id: 4,
       title: "Zoom Clone - Coming Soon",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with friends.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "/ui.yoom.com",
