@@ -109,7 +109,7 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Varun was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Varun is the ideal partner.",
+        "Collaborating with Varun was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Varun's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Varun is the ideal partner.",
       name: "Manu Arora",
       title: "Founder at Aceternity",
       img:"/profile1.png"
